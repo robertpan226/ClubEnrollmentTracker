@@ -1,0 +1,2 @@
+test,man,12
+test club,2/5
